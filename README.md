@@ -88,13 +88,16 @@ Copied: config.txt -> Backup/config_20250212_215154.txt
 
 ## Screenshots
 ### Password Strength Checker Output
-![Password Strength Checker](image/password_strength.png)
+- ![password_strength](https://github.com/user-attachments/assets/763e68d4-6bfa-418b-8c7c-5ccdc06204cc)
+
 
 ### CPU Usage Monitor Output
-![CPU Usage Monitor](image/cpu_usage.png)
+- ![cpu_usage](https://github.com/user-attachments/assets/64a2355c-0ecc-4214-beb1-aa964b2783ac)
+
 
 ### Backup Script Output
-![Backup Script](image/backup.png)
+- ![backup](https://github.com/user-attachments/assets/eae3c5db-2609-4014-ae57-2afe6da8a0f3)
+
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with enhancements or bug fixes.
